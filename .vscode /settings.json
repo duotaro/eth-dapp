@@ -1,0 +1,5 @@
+{
+    "solidity.remappings": [
+        "hardhat/=node_modules/hardhat"
+    ]
+}
